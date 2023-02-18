@@ -23,3 +23,38 @@
 2019-08-19 17:07:07 pid:29852 Workerman[start.php] has been stopped
 2019-08-19 17:07:07 pid:30280 Workerman[start.php] stop success
 2023-01-10 21:58:52 pid:990 Workerman[start.php] start in DAEMON mode
+2023-02-16 19:43:02 pid:9043 Workerman[/www/wwwroot/chat.mse.mobi/zjhj_pusher/start.php] start in DAEMON mode
+2023-02-16 19:43:02 pid:9043 Workerman[/www/wwwroot/chat.mse.mobi/zjhj_pusher/start.php] already running
+2023-02-16 19:44:01 pid:9705 Workerman[/www/wwwroot/chat.mse.mobi/zjhj_pusher/start.php] start in DAEMON mode
+2023-02-16 19:44:20 pid:9928 Workerman[start.php] stop 
+2023-02-16 19:44:20 pid:9928 Workerman[start.php] is stopping ...
+2023-02-16 19:44:20 pid:9711 Workerman[start.php] stopping ...
+2023-02-16 19:44:20 pid:9711 Workerman[start.php] has been stopped
+2023-02-16 19:44:20 pid:9928 Workerman[start.php] stop success
+2023-02-16 19:44:26 pid:10025 Workerman[start.php] start in DEBUG mode
+2023-02-16 19:49:55 pid:10025 Workerman[start.php] stopping ...
+2023-02-16 19:49:55 pid:10025 Workerman[start.php] has been stopped
+2023-02-16 19:49:57 pid:14054 Workerman[start.php] start in DEBUG mode
+2023-02-16 20:38:44 pid:14054 Workerman[start.php] stopping ...
+2023-02-16 20:38:44 pid:14054 Workerman[start.php] has been stopped
+2023-02-16 20:38:46 pid:18016 Workerman[start.php] start in DEBUG mode
+2023-02-16 20:38:47 pid:18016 Workerman[start.php] stopping ...
+2023-02-16 20:38:47 pid:18016 Workerman[start.php] has been stopped
+2023-02-16 20:38:51 pid:18068 Workerman[start.php] start in DAEMON mode
+2023-02-16 20:52:16 pid:28148 Workerman[start.php] start in DAEMON mode
+2023-02-16 20:52:16 pid:28148 Workerman[start.php] already running
+2023-02-16 20:52:23 pid:28221 Workerman[start.php] stop 
+2023-02-16 20:52:23 pid:28221 Workerman[start.php] is stopping ...
+2023-02-16 20:52:23 pid:18070 Workerman[start.php] stopping ...
+2023-02-16 20:52:23 pid:18070 Workerman[start.php] has been stopped
+2023-02-16 20:52:23 pid:28221 Workerman[start.php] stop success
+2023-02-16 20:52:30 pid:28288 Workerman[start.php] start in DEBUG mode
+2023-02-16 21:16:40 pid:28288 Workerman[start.php] stopping ...
+2023-02-16 21:16:40 pid:28288 Workerman[start.php] has been stopped
+2023-02-16 21:16:42 pid:13925 Workerman[start.php] start in DEBUG mode
+2023-02-16 21:22:47 pid:13925 Workerman[start.php] stopping ...
+2023-02-16 21:22:47 pid:13925 Workerman[start.php] has been stopped
+2023-02-16 21:22:51 pid:17776 Workerman[start.php] start in DEBUG mode
+2023-02-16 21:22:52 pid:17776 Workerman[start.php] stopping ...
+2023-02-16 21:22:52 pid:17776 Workerman[start.php] has been stopped
+2023-02-16 21:22:55 pid:17836 Workerman[start.php] start in DAEMON mode

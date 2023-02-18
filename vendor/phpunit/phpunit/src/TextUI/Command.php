@@ -828,9 +828,10 @@ class PHPUnit_TextUI_Command
 
         $options = array(
             'ssl' => array(
-                'allow_self_signed' => false,
+                // 'allow_self_signed' => true,
                 'cafile'            => $caFile,
-                'verify_peer'       => true
+                'verify_peer'       => true,
+                'allow_self_signed' => true, //如果是自签名证书需要开启此选项
             )
         );
 
